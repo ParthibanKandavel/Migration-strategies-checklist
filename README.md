@@ -71,8 +71,8 @@ Area	Actions
 
 Area	Action
 
-SAS Code	Translate macros, data steps, and PROC SQL into Python
-Teradata Data	Export → GCS → Load to BigQuery with schema validation
+SAS Code	Translate macros, data steps, and PROC SQL into Python...
+Teradata Data	Export → GCS → Load to BigQuery with schema validation...
 Scheduling	Migrate from Control-M to Airflow/Cloud Composer
 Validation	Run parallel runs and automate data comparison
 Architecture	Define staging, raw, and curated layers in BigQuery
